@@ -1,4 +1,3 @@
-```java
 class AVLNode {
     int documentId;
     String documentName;
@@ -101,7 +100,7 @@ public class CO1_Casestudy {
 
     public static void main(String[] args) {
 
-        DocumentTrackerAVL tracker = new DocumentTrackerAVL();
+        CO1_Casestudy tracker = new CO1_Casestudy();
 
         int[] ids = {
             1001, 1045, 1078, 1102, 1134,
